@@ -25,7 +25,11 @@ coverage
 build/Release
 
 # Dependency directory
-node_modules/
+node_modules*
+
+# Test Directories
+test*
+dist*
 
 # Debug log from npm
 npm-debug.log

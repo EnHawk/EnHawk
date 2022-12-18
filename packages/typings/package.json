@@ -1,8 +1,8 @@
 {
-  "name": "bot-typings",
+  "name": "@hawkjs/typings",
   "version": "1.0.0",
   "description": "Bot typings with typescript.",
-  "main": "index.js",
+  "main": "src/index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/EnHawk/EnHawk/issues"
   },
-  "homepage": "https://github.com/EnHawk/EnHawk#readme"
+  "homepage": "https://github.com/EnHawk/EnHawk#readme",
+  "devDependencies": {
+    "discord.js": "^14.7.1"
+  }
 }
