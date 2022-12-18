@@ -1,6 +1,6 @@
 {
   "name": "@hawkdotjs/typings",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "description": "Bot typings with typescript.",
   "main": "src/index.ts",
   "scripts": {
