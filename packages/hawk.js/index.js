@@ -1,1 +1,3 @@
-module.exports = () => console.log(`Coming soon.`);
+import { CommandBuilder } from "@hawkdotjs/typings";
+
+export { CommandBuilder };
