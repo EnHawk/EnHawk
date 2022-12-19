@@ -3,8 +3,11 @@ Advanced DJS Bot Typings with [TypeScript](https://www.typescriptlang.org).
 
 # Installation
 [Node.js](https://nodejs.org) 19.0.0 or newer is required.
+```bash
+$ npm install @hawkdotjs/typings
+```
 
-# Examples
+# Example Usage
 ```js
 import { SlashCommandBuilder } from "discord.js";
 // discord.js included as a dependency
