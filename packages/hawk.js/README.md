@@ -12,7 +12,7 @@ $ npm install hawk.js
 
 # Links
 - [GitHub Profile](https://github.com/EnHawk)
-- [GitHub Repository](https://github.com/EnHawk/EnHawk),
+- [GitHub Repository](https://github.com/EnHawk/EnHawk)
 - [Package Developer][def]
 
 [def]: https://www.npmjs.com/~enlight_hawk
