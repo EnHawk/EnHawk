@@ -28,5 +28,7 @@ const pingCommand = new CommandBuilder({
 
 # Links
 - [GitHub Profile](https://github.com/EnHawk)
-- [GitHub Repository](https://github.com/EnHawk/EnHawk)
+- [GitHub Repository][def]
 - [Package Developer](https://www.npmjs.com/~enlight_hawk)
+
+[def]: https://github.com/EnHawk/EnHawk
