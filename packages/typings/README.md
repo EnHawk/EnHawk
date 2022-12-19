@@ -1,3 +1,12 @@
+<div align="center">
+  <a href="https://www.npmjs.com/package/@hawkdotjs/typings">
+    <img src="https://img.shields.io/npm/v/@hawkdotjs/typings" alt="npm version" />
+  </a>
+  <a>
+    <img src="https://img.shields.io/npm/dw/@hawkdotjs/typings" alt="npm downloads" />
+  </a>
+</div>
+
 # About
 Advanced DJS Bot Typings with [TypeScript](https://www.typescriptlang.org).
 

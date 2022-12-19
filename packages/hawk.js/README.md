@@ -1,3 +1,9 @@
+<div align="center">
+  <a href="https://www.npmjs.com/package/hawk.js">
+    <img src="https://img.shields.io/npm/v/hawk.js" alt="npm version" />
+  </a>
+</div>
+
 # About
 Nothing, I got bored so I created this package for fun.
 
