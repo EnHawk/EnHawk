@@ -2,7 +2,10 @@
   "name": "@hawkdotjs/typings",
   "version": "1.5.1",
   "description": "Bot typings with typescript.",
-  "main": "src/index.ts",
+  "types": "./src/index.d.ts",
+  "exports": {
+    "types": "./src/index.d.ts"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
