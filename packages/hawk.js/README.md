@@ -32,8 +32,8 @@ $ npm install hawk.js
 
 # Links
 <a href="https://github.com/EnHawk">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github profile" width="25%" height="25%" />
+  <img src="https://cdn.discordapp.com/attachments/819019531438522369/1054717851862323211/github-mark.png" alt="github profile" width="25%" height="25%" />
 </a>
 <a href="https://www.npmjs.com/~enlight_hawk">
-  <img src="https://en.wikipedia.org/wiki/Npm_%28software%29#/media/File:Npm-logo.svg" alt="npm profile" width="20%" height="20%" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1200px-Npm-logo.svg.png" alt="npm profile" width="20%" height="20%" />
 </a>
