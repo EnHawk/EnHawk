@@ -26,9 +26,7 @@ $ npm install hawk.js
 ```
 
 # Optional Packages
-- <a href="https://www.npmjs.com/package/@hawkdotjs/typings">
-    <img src="https://img.shields.io/npm/v/@hawkdotjs/typings?label=%40hawkdotjs%2Ftypings" />
-  </a>
+- [![@hawkdotjs/typings](https://img.shields.io/npm/v/@hawkdotjs/typings?label=%40hawkdotjs%2Ftypings&style=for-the-badge)](https://www.npmjs.com/package/@hawkdotjs/typings)
 
 # Links
 <a href="https://github.com/EnHawk">

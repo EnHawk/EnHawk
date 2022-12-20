@@ -8,10 +8,10 @@
   <h1>Hawk.js Typings</h1>
   <div>
     <a href="https://www.npmjs.com/package/@hawkdotjs/typings">
-      <img src="https://img.shields.io/npm/v/@hawkdotjs/typings" alt="npm version" />
+      <img src="https://img.shields.io/npm/v/@hawkdotjs/typings?style=for-the-badge" alt="npm version" />
     </a>
-    <a>
-      <img src="https://img.shields.io/npm/dt/@hawkdotjs/typings" alt="npm downloads" />
+    <a href="https://www.npmjs.com/package/@hawkdotjs/typings">
+      <img src="https://img.shields.io/npm/dt/@hawkdotjs/typings?style=for-the-badge" alt="npm downloads" />
     </a>
   </div>
 </div>
