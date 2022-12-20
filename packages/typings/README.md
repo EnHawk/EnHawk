@@ -5,7 +5,7 @@
           width="50%" 
           height="50%" />
   </div>
-  <h1>Hawk.js Typings</h1>
+  <h1>Hawk JS/Typings</h1>
   <div>
     <a href="https://www.npmjs.com/package/@hawkdotjs/typings">
       <img src="https://img.shields.io/npm/v/@hawkdotjs/typings?style=for-the-badge" alt="npm version" />
@@ -45,8 +45,9 @@ const pingCommand = new CommandBuilder({
 ```
 
 # Links
-- [GitHub Profile](https://github.com/EnHawk)
-- [GitHub Repository][def]
-- [Package Developer](https://www.npmjs.com/~enlight_hawk)
-
-[def]: https://github.com/EnHawk/EnHawk
+<a href="https://github.com/EnHawk">
+  <img src="https://cdn.discordapp.com/attachments/819019531438522369/1054717851862323211/github-mark.png" alt="github profile" width="10%" height="10%" />
+</a>
+<a href="https://www.npmjs.com/~enlight_hawk">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1200px-Npm-logo.svg.png" alt="npm profile" width="20%" height="20%" />
+</a>
