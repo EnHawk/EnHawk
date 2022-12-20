@@ -2,6 +2,9 @@
   <a href="https://www.npmjs.com/package/hawk.js">
     <img src="https://img.shields.io/npm/v/hawk.js" alt="npm version" />
   </a>
+  <a href="https://www.npmjs.com/package/hawk.js">
+    <img src="https://img.shields.io/npm/dt/hawk.js" alt="npm downloads" />
+  </a>
 </div>
 
 # About

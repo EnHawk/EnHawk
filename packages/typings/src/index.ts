@@ -1,3 +1,5 @@
-import { CommandOptions, CommandBuilder } from "./command";
+import { ClientEvents, ClientCommands } from "./components/Collections";
+import { CommandBuilder, CommandOptions } from "./components/Command";
+import { EventBuilder, EventOptions } from "./components/Event";
 
-export { CommandOptions, CommandBuilder };
+export {};

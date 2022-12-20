@@ -1,4 +1,4 @@
-import * as Discord from "discord.js";
+import Discord from "discord.js";
 
 export interface CommandOptions {
     scope: `Global` | `Local`,
@@ -10,7 +10,6 @@ export interface CommandOptions {
 export class CommandBuilder {
     constructor (options: CommandOptions) {
         const { scope, category, data, execute } = options;
-        
         return {
             scope,
             category,
