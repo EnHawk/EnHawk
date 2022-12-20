@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/EnHawk/EnHawk/tree/master/packages/hawk.js#readme",
   "dependencies": {
-    "@hawkdotjs/typings": "^1.0.5"
+    "@hawkdotjs/typings": "^1.4.0"
   }
 }
