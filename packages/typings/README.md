@@ -1,6 +1,6 @@
 <div align="center">
   <div>
-    <img src="" width="50%" height="50%" />
+    <img src="https://github.com/EnHawk/EnHawk/blob/master/packages/typings/icon.png" width="50%" height="50%" />
   </div>
   <h1>Hawk.js Typings</h1>
   <div>
