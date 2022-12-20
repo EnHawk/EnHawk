@@ -8,10 +8,10 @@
   <h1>Hawk JS</h1>
   <div>
     <a href="https://www.npmjs.com/package/hawk.js">
-      <img src="https://img.shields.io/npm/v/hawk.js" alt="npm version" />
+      <img src="https://img.shields.io/npm/v/hawk.js?style=for-the-badge" alt="npm version" />
     </a>
     <a href="https://www.npmjs.com/package/hawk.js">
-      <img src="https://img.shields.io/npm/dt/hawk.js" alt="npm downloads" />
+      <img src="https://img.shields.io/npm/dt/hawk.js?style=for-the-badge" alt="npm downloads" />
     </a>
   </div>
 </div>
@@ -26,12 +26,14 @@ $ npm install hawk.js
 ```
 
 # Optional Packages
-- [@hawkdotjs/typings](https://www.npmjs.com/package/@hawkdotjs/typings) for typings and stuff (``npm install @hawkdotjs/typings``)
+- <a href="https://www.npmjs.com/package/@hawkdotjs/typings">
+    <img src="https://img.shields.io/npm/v/@hawkdotjs/typings?label=%40hawkdotjs%2Ftypings" />
+  </a>
 
 # Links
-- [GitHub Profile](https://github.com/EnHawk)
-- [GitHub Repository][def2]
-- [Package Developer][def]
-
-[def]: https://www.npmjs.com/~enlight_hawk
-[def2]: https://github.com/EnHawk/EnHawk
+<a href="https://github.com/EnHawk">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github profile" width="25%" height="25%" />
+</a>
+<a href="https://www.npmjs.com/~enlight_hawk">
+  <img src="https://en.wikipedia.org/wiki/Npm_%28software%29#/media/File:Npm-logo.svg" alt="npm profile" width="20%" height="20%" />
+</a>
