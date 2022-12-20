@@ -1,6 +1,6 @@
 {
   "name": "@hawkdotjs/typings",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "description": "Bot typings with typescript.",
   "main": "src/index.ts",
   "scripts": {
@@ -13,6 +13,7 @@
     "djs"
   ],
   "author": "enlight_hawk",
+  "type": "module",
   "license": "ISC",
   "repository": {
     "type": "git",
