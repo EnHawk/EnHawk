@@ -1,6 +1,6 @@
 <div align="center">
   <div>
-    <img src="./typings_icon.png" width="50%" height="50%" />
+    <img src="" width="50%" height="50%" />
   </div>
   <h1>Hawk.js Typings</h1>
   <div>
