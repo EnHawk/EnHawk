@@ -1,10 +1,19 @@
 <div align="center">
-  <a href="https://www.npmjs.com/package/hawk.js">
-    <img src="https://img.shields.io/npm/v/hawk.js" alt="npm version" />
-  </a>
-  <a href="https://www.npmjs.com/package/hawk.js">
-    <img src="https://img.shields.io/npm/dt/hawk.js" alt="npm downloads" />
-  </a>
+  <div>
+    <img src="https://github.com/EnHawk/EnHawk/blob/master/packages/hawk.js/icon.png"
+          alt="pack icon"
+          width="50%" 
+          height="50%" />
+  </div>
+  <h1>Hawk JS</h1>
+  <div>
+    <a href="https://www.npmjs.com/package/hawk.js">
+      <img src="https://img.shields.io/npm/v/hawk.js" alt="npm version" />
+    </a>
+    <a href="https://www.npmjs.com/package/hawk.js">
+      <img src="https://img.shields.io/npm/dt/hawk.js" alt="npm downloads" />
+    </a>
+  </div>
 </div>
 
 # About
