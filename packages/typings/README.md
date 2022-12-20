@@ -1,6 +1,6 @@
 <div align="center">
   <div>
-    <img src="./icon.png" width="50%" height="50%" />
+    <img src="https://cdn.discordapp.com/attachments/819019531438522369/1054679573477986304/icon.png" width="50%" height="50%" />
   </div>
   <h1>Hawk.js Typings</h1>
   <div>
