@@ -2,12 +2,16 @@
   "name": "@hawkdotjs/typings",
   "version": "1.5.1",
   "description": "Bot typings with typescript.",
-  "types": "./src/index.d.ts",
+  "main": "dist/index.js",
+  "types": "dist",
   "exports": {
-    "types": "./src/index.d.ts"
+    "import": "./dist/index.js",
+    "require": "./dist/index.js",
+    "types": "./src/index.ts"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
   },
   "keywords": [
     "bot",
@@ -16,7 +20,6 @@
     "djs"
   ],
   "author": "enlight_hawk",
-  "type": "module",
   "license": "ISC",
   "repository": {
     "type": "git",
@@ -28,5 +31,8 @@
   "homepage": "https://github.com/EnHawk/EnHawk/tree/master/packages/typings#readme",
   "dependencies": {
     "discord.js": "^14.7.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.4"
   }
 }

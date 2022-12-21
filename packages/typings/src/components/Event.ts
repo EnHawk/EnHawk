@@ -1,8 +1,8 @@
-import Discord from "discord.js";
+import * as Discord from "discord.js";
 
 export interface EventOptions {
     name: keyof Discord.ClientEvents,
-    execute: (...args) => any;
+    execute: (args: any) => any;
 };
 
 export class EventBuilder {
