@@ -1,2 +1,6 @@
 # Tests
-test.ts
+test*
+
+# Temporaries
+backups/
+cache/

@@ -3,11 +3,11 @@
   "version": "1.5.2",
   "description": "Bot typings with typescript.",
   "main": "dist/index.js",
-  "types": "dist",
+  "types": "src/index.d.ts",
   "exports": {
-    "import": "./dist/index.js",
+    "import": "./dist/index.mjs",
     "require": "./dist/index.js",
-    "types": "./src/index.ts"
+    "types": "./src/index.d.ts"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
