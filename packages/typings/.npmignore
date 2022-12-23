@@ -1,6 +1,2 @@
 # Tests
 test*
-
-# Temporaries
-backups/
-cache/
