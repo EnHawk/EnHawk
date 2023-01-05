@@ -17,56 +17,72 @@
 </div>
 
 # About
-Advanced DJS Bot Typings with [TypeScript](https://www.typescriptlang.org).
+
+[**@hawkdotjs/typings**](https://www.npmjs.com/package/@hawkdotjs/typings) Is An Advanced [DJS](https://www.npmjs.com/package/discord.js) Bot Typings with [TypeScript](https://www.typescriptlang.org).
+
 # Installation
-[Node.js](https://nodejs.org) 19.0.0 or newer is required.
-```bash
-$ npm install @hawkdotjs/typings
+
+> **Note: [Node.js](https://nodejs.org) 19.0.0 or newer is required.**
+```sh-session
+npm install @hawkdotjs/typings
 ```
+
 # Example Usage
+
 ## CommonJS
+
 ```js
-const { SlashCommandBuilder } = require("discord.js");
-// discord.js included as a dependency
+const { CommandBuilder, EventBuilder } = require("@hawkdotjs/typings");
 
-const { CommandBuilder } = require("@hawkdotjs/typings");
-
-const greetCommand = new CommandBuilder()
-    .setScope("Global") // "Global" | "Local"
-    .setCategory("Other") // "Economy" | "Moderation" | "Fun" | "Other"
-    .setData(
-        new SlashCommandBuilder()
-        .setName("greet")
-        .setDescription("Greet yourself.")
-    )
-    .onExecute(async interaction => {
-        await interaction.reply(`Hello ${interaction.user.username}!`)
-    });
-
-module.exports = greetCommand;
-```
-## ESM Module
-```js
-import { SlashCommandBuilder } from "discord.js";
-// discord.js included as a dependency
-
-import { CommandBuilder } from "@hawkdotjs/typings";
-
-const greetCommand = new CommandBuilder()
-  .setScope("Global") // "Global" | "Local"
-  .setCategory("Other") // "Economy" | "Moderation" | "Fun" | "Other"
+// Command
+const HelloWorldCommand = new CommandBuilder()
+  .setScope("Global")
+  .setCategory("Fun")
   .setData(
     data => data
-    .setName("greet")
-    .setDescription("Greet yourself.")
+    .setName("helloworld")
+    .setDescription('Replies with "Hello World!"')
   )
   .onExecute(async interaction => {
-    await interaction.reply(`Hello ${interaction.user.username}!`)
+    await interaction.reply("Hello World!")
   });
 
-export default greetCommand;
+// Event
+const ReadyEvent = new EventBuilder()
+  .setName("ready")
+  .onExecute(() => {
+    return console.log("Bot is online.")
+  });
 ```
+
+## ESM Module
+
+```js
+import { CommandBuilder, EventBuilder } from "@hawkdotjs/typings";
+
+// Command
+const HelloWorldCommand = new CommandBuilder()
+  .setScope("Global")
+  .setCategory("Fun")
+  .setData(
+    data => data
+    .setName("helloworld")
+    .setDescription('Replies with "Hello World!"')
+  )
+  .onExecute(async interaction => {
+    await interaction.reply("Hello World!")
+  });
+
+// Event
+const ReadyEvent = new EventBuilder()
+  .setName("ready")
+  .onExecute(() => {
+    return console.log("Bot is online.")
+  });
+```
+
 # Links
+
 <a href="https://github.com/EnHawk">
   <img src="https://cdn.discordapp.com/attachments/819019531438522369/1054717851862323211/github-mark.png" alt="github profile" width="10%" height="10%" />
 </a>
