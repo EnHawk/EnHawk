@@ -31,6 +31,9 @@ node_modules*
 dist*
 test*
 
+# npmignore
+.npmignore
+
 # Debug log from npm
 npm-debug.log
 
