@@ -1,13 +1,13 @@
 {
   "name": "@hawkdotjs/typings",
-  "version": "1.5.4",
+  "version": "1.5.5",
   "description": "Bot typings with typescript.",
   "main": "dist/index.js",
-  "types": "src/index.d.ts",
+  "types": "dist/index.d.ts",
   "exports": {
     "import": "./dist/index.mjs",
     "require": "./dist/index.js",
-    "types": "./src/index.d.ts"
+    "types": "./dist/index.d.ts"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -20,7 +20,7 @@
     "djs"
   ],
   "author": "enlight_hawk",
-  "license": "ISC",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/EnHawk/EnHawk.git"

@@ -45,24 +45,24 @@ const greetCommand = new CommandBuilder()
 
 module.exports = greetCommand;
 ```
-## Module
+## ESM Module
 ```js
 import { SlashCommandBuilder } from "discord.js";
 // discord.js included as a dependency
 
-import { CommandBuilder } = from "@hawkdotjs/typings";
+import { CommandBuilder } from "@hawkdotjs/typings";
 
 const greetCommand = new CommandBuilder()
-    .setScope("Global") // "Global" | "Local"
-    .setCategory("Other") // "Economy" | "Moderation" | "Fun" | "Other"
-    .setData(
-        new SlashCommandBuilder()
-        .setName("greet")
-        .setDescription("Greet yourself.")
-    )
-    .onExecute(async interaction => {
-        await interaction.reply(`Hello ${interaction.user.username}!`)
-    });
+  .setScope("Global") // "Global" | "Local"
+  .setCategory("Other") // "Economy" | "Moderation" | "Fun" | "Other"
+  .setData(
+    data => data
+    .setName("greet")
+    .setDescription("Greet yourself.")
+  )
+  .onExecute(async interaction => {
+    await interaction.reply(`Hello ${interaction.user.username}!`)
+  });
 
 export default greetCommand;
 ```
