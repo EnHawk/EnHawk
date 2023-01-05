@@ -25,14 +25,14 @@ coverage
 build/Release
 
 # Dependency directory
-node_modules*
+packages/**/node_modules
 
-# Distributions
-dist*
-test*
+# Distributions and tests
+packages/**/dist
+packages/**/test
 
 # npmignore
-.npmignore
+packages/**/.npmignore
 
 # Debug log from npm
 npm-debug.log
