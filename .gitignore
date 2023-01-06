@@ -31,8 +31,9 @@ packages/**/node_modules
 packages/**/dist
 packages/**/test
 
-# npmignore
+# npm
 packages/**/.npmignore
+*.tgz
 
 # Debug log from npm
 npm-debug.log
