@@ -1,1 +1,3 @@
-module.exports = require(`@hawkdotjs/typings`)
+const Typings = require(`@hawkdotjs/typings`);
+
+module.exports = { ...Typings };

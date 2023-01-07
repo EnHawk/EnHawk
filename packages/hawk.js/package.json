@@ -1,25 +1,33 @@
 {
   "name": "hawk.js",
-  "version": "1.2.0",
+  "version": "1.2.5",
   "description": "Enlight Hawk's first NPM package",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "exports": {
+    "default": "./src/index.js",
+    "import": "./src/index.mjs",
+    "require": "./src/index.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/EnHawk/EnHawk.git"
   },
   "author": "enlight_hawk",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/EnHawk/EnHawk/issues"
   },
   "homepage": "https://github.com/EnHawk/EnHawk/tree/master/packages/hawk.js#readme",
   "dependencies": {
-    "@hawkdotjs/typings": "^1.5.2"
+    "@hawkdotjs/typings": "^1.5.5"
   },
   "devDependencies": {
     "discord.js": "^14.7.1"
+  },
+  "directories": {
+    "test": "test"
   }
 }
