@@ -1,6 +1,6 @@
 <h1 align="center">Changelog</h1>
 
-# [@hawkdotjs/typings@1.5.5](https://www.npmjs.com/package/@hawkdotjs/typings/v/1.5.5) - (2023-1-6)
+# [hawk.js@1.2.5](https://www.npmjs.com/package/hawk.js/v/1.2.5) - (2023-1-7)
 
 ## Bug Fixes
 - Fixed ``.setData`` sets the command data as Function type (``CommandBuilder``).
