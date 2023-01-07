@@ -27,8 +27,10 @@ build/Release
 # Dependency directory
 packages/**/node_modules
 
-# Distributions and tests
+# Distributions
 packages/**/dist
+
+# Tests
 packages/**/test
 
 # npm

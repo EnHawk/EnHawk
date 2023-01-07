@@ -3,13 +3,15 @@
   "version": "1.2.5",
   "description": "Enlight Hawk's first NPM package",
   "main": "src/index.js",
+  "types": "src/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "exports": {
     "default": "./src/index.js",
     "import": "./src/index.mjs",
-    "require": "./src/index.js"
+    "require": "./src/index.js",
+    "types": "./src/index.d.ts"
   },
   "repository": {
     "type": "git",
