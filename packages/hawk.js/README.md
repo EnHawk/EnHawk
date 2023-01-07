@@ -17,18 +17,22 @@
 </div>
 
 # About
+
 Nothing, I got bored so I created this package for fun.
 
 # Installation
-[Node.js](https://nodejs.org) 19.0.0 or newer is required.
-```bash
+
+> **Note: [Node.js](https://nodejs.org) 19.0.0 or newer is required.**
+```sh-session
 $ npm install hawk.js
 ```
 
 # Optional Packages
+
 - [![@hawkdotjs/typings](https://img.shields.io/npm/v/@hawkdotjs/typings?label=%40hawkdotjs%2Ftypings)](https://www.npmjs.com/package/@hawkdotjs/typings)
 
 # Links
+
 <a href="https://github.com/EnHawk">
   <img src="https://cdn.discordapp.com/attachments/819019531438522369/1054717851862323211/github-mark.png" alt="github profile" width="10%" height="10%" />
 </a>
