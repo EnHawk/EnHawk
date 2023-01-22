@@ -1,3 +1,4 @@
+[![Tests](https://github.com/EnHawk/EnHawk/actions/workflows/tests.yml/badge.svg)](https://github.com/EnHawk/EnHawk/actions/workflows/tests.yml)
 - 👋 Hi, I’m Hawk
 - 👀 I’m interested in Gaming
 - 🌱 I’m currently learning Coding
