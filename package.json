@@ -1,23 +1,19 @@
 {
-  "name": "hawk.js",
-  "version": "1.2.6",
-  "description": "Advanced DJS Bot Typings, Builders, and more!",
-  "main": "dist/index.js",
+  "name": "enhawk",
+  "version": "1.0.0",
+  "description": "My special repository.",
+  "main": "script.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node script"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EnHawk/hawk.js.git"
+    "url": "git+https://github.com/EnHawk/EnHawk.git"
   },
-  "keywords": [
-    "discord",
-    "bot"
-  ],
   "author": "Enlight Hawk",
-  "license": "MIT",
+  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/EnHawk/hawk.js/issues"
+    "url": "https://github.com/EnHawk/EnHawk/issues"
   },
-  "homepage": "https://github.com/EnHawk/hawk.js#readme"
+  "homepage": "https://github.com/EnHawk/EnHawk#readme"
 }
