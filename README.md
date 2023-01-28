@@ -1,4 +1,4 @@
-[![github followers](https://img.shields.io/github/followers/EnHawk?style=social)]()
+[![github followers](https://img.shields.io/github/followers/EnHawk?style=social)](https://github.com/EnHawk)
 [![youtube subscribers](https://img.shields.io/youtube/channel/subscribers/UCqePBcLzjDnS6SvIJ4g0IbQ?style=social)](https://youtube.com/@EnlightHawk)
 [![twitter follow](https://img.shields.io/twitter/follow/EnlightHawk?style=social)](https://twitter.com/EnlightHawk)
 - 👋 Hi, I’m Hawk
