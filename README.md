@@ -70,14 +70,14 @@
 
 <p align="center">
   <a href="https://github.com/EnHawk">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=EnHawk&show_icons=true&count_private=true&theme=react&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="EnHawk's GitHub Stats" height="192px" width="49.5%" />
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=EnHawk&show_icons=true&count_private=true&theme=react&bg_color=0D1117&title_color=FFFFFFF&icon_color=F8D866" alt="EnHawk's GitHub Stats" height="192px" width="49.5%" />
   </a>
   <a href="https://github.com/EnHawk">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=EnHawk&langs_count=8&layout=compact&theme=react&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="EnHawk's Top Languages" height="192px" width="49.5%"/>
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=EnHawk&langs_count=8&layout=compact&theme=react&bg_color=0D1117&title_color=FFFFFF&icon_color=F8D866" alt="EnHawk's Top Languages" height="192px" width="49.5%"/>
   </a>
 </p>
 
-![EnHawk's Graph](https://github-readme-activity-graph.vercel.app/graph?username=EnHawk&custom_title=Enlight%20Hawk's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![EnHawk's Graph](https://github-readme-activity-graph.vercel.app/graph?username=EnHawk&custom_title=Enlight%20Hawk's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=FFFFFF&line=00FFFF&point=00FFFF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <h3 align="center">
   That's it for my introduction 😊
