@@ -16,7 +16,7 @@
   🛌🏽 &emsp; Being lazy most of the time <br />
   💻 &emsp; Like to learn about coding and stuff <br />
   📝 &emsp; Like to learn new things in my life <br />
-  💬 &emsp; Ask me about anything [here](https://github.com/EnHawk/Enhawk/issues) <br />
+  💬 &emsp; Ask me about anything <a href="https://github.com/EnHawk/EnHawk/issues">here</a> <br />
 </p>
 
 <br />
