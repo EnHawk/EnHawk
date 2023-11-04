@@ -58,7 +58,7 @@
 
 <p align="center">
   <a href="https://github.com/EnHawk">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=EnHawk&theme=radical&background=0D1117" alt="EnHawk's GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=EnHawk&theme=dark&background=0D1117" alt="EnHawk's GitHub Streak" />
   </a>
 </p>
 
