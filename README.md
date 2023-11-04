@@ -43,6 +43,8 @@
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA2B?style=for-the-badge&logo=firebase&labelColor=black)](https://firebase.google.com)
 [![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)](https://code.visualstudio.com)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc)
+[![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-2bb1ff?style=for-the-badge&logo=roblox)](https://create.roblox.com)
 
 <br />
 
