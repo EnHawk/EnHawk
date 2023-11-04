@@ -21,6 +21,16 @@
 
 <br />
 
+## Social Media
+
+[![Enlight Hawk's YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@EnlightHawk)
+<br />
+[![Enlight Hawk's Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x)](https://twitter.com/EnlightHawk)
+<br />
+[![Enlight Hawk's Instagram](https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram)](https://www.instagram.com/enlight_hawk)
+
+<br />
+
 ## Languages I Speak
 
 [![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript)](https://www.javascript.com)
