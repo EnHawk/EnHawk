@@ -23,9 +23,13 @@
 
 ## Social Media
 
-[![Enlight Hawk's YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@EnlightHawk)
+[![Enlight Hawk's GitHub](https://img.shields.io/badge/GitHub-2D333B?style=for-the-badge&logo=github)](https://github.com/EnHawk)
 <br />
 [![Enlight Hawk's Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x)](https://twitter.com/EnlightHawk)
+<br />
+[![Enlight Hawk's Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/456564388300718120)
+<br />
+[![Enlight Hawk's YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@EnlightHawk)
 <br />
 [![Enlight Hawk's Instagram](https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram)](https://www.instagram.com/enlight_hawk)
 
