@@ -37,12 +37,12 @@
 
 ## Languages I Speak
 
-[![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript)](https://www.javascript.com)
-[![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript)](https://www.typescriptlang.org)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&labelColor=black)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com)
+[![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown)](https://en.wikipedia.org/wiki/Markdown)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&labelColor=black)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&labelColor=black)](https://www.python.org)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 [![Java](https://img.shields.io/badge/Java-EC2025?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com)
 [![Lua](https://img.shields.io/badge/Lua-0B0AEA?style=for-the-badge&logo=lua&)](https://www.lua.org)
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&&logoColor=white)](https://www.arduino.cc)
@@ -51,10 +51,10 @@
 
 ## Use To Code
 
-[![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js)](https://nodejs.org)
+[![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)](https://expressjs.com)
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&labelColor=black)](https://www.mongodb.com)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA2B?style=for-the-badge&logo=firebase&labelColor=black)](https://firebase.google.com)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA2B?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
 [![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)](https://code.visualstudio.com)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc)
