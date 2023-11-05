@@ -68,7 +68,7 @@
 [![Ravebot](https://github-readme-stats.vercel.app/api/pin/?username=EnHawk&repo=Ravebot&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&border_color=C9044C)](https://github.com/EnHawk/Ravebot)
 [![Hawk JS](https://github-readme-stats.vercel.app/api/pin/?username=EnHawk&repo=hawk.js&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&border_color=F0DB4F)](https://github.com/EnHawk/hawk.js)
 <br />
-[![All Repos](https://img.shields.io/badge/-All%20Repos-black?style=for-the-badge&logo=github)](https://github.com/EnHawk?tab=repositories)
+[![All Repositories](https://img.shields.io/badge/-All%20Repositories-black?style=for-the-badge&logo=git&logoColor=white)](https://github.com/EnHawk?tab=repositories)
 
 <br />
 
