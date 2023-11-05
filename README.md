@@ -93,7 +93,13 @@
   </a>
 </p>
 
-![EnHawk's Graph](https://github-readme-activity-graph.vercel.app/graph?username=EnHawk&custom_title=Enlight%20Hawk's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=FFFFFF&line=00FFFF&point=00FFFF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<p align="center">
+  <a href="https://github.com/EnHawk">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=EnHawk&custom_title=Enlight%20Hawk's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=FFFFFF&line=00FFFF&point=00FFFF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Enlight Hawk's Graph" />
+  </a>
+</p>
+
+<br />
 
 <h3 align="center">
   That's it for my introduction 😊
