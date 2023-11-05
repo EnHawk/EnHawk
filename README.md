@@ -72,6 +72,10 @@
 
 <br />
 
+<h2 align="center">My Stats</h2>
+
+<br />
+
 <p align="center">
   <a href="https://github.com/EnHawk">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=EnHawk&theme=dark&background=0D1117" alt="EnHawk's GitHub Streak" />
