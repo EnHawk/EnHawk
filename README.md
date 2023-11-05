@@ -55,10 +55,10 @@
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)](https://expressjs.com)
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA2B?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
-[![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)](https://code.visualstudio.com)
+[![VSCode](https://img.shields.io/badge/Visual_Studio-0078D7?style=for-the-badge&logo=visual%20studio&logoColor=white)](https://code.visualstudio.com)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc)
-[![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-2bb1ff?style=for-the-badge&logo=roblox)](https://create.roblox.com)
+[![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-2BB1FF?style=for-the-badge&logo=roblox)](https://create.roblox.com)
 
 <br />
 
@@ -67,8 +67,9 @@
 [![EnHawk Readme](https://github-readme-stats.vercel.app/api/pin/?username=EnHawk&repo=EnHawk&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E)](https://github.com/EnHawk/EnHawk#readme)
 [![Ravebot](https://github-readme-stats.vercel.app/api/pin/?username=EnHawk&repo=Ravebot&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&border_color=C9044C)](https://github.com/EnHawk/Ravebot)
 [![Hawk JS](https://github-readme-stats.vercel.app/api/pin/?username=EnHawk&repo=hawk.js&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&border_color=F0DB4F)](https://github.com/EnHawk/hawk.js)
-<br />
-[![All Repositories](https://img.shields.io/badge/-All%20Repositories-black?style=for-the-badge&logo=git&logoColor=white)](https://github.com/EnHawk?tab=repositories)
+[![roblos-api](https://github-readme-stats.vercel.app/api/pin/?username=EnHawk&repo=roblos-api&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&border_color=2BB1FF)](https://github.com/EnHawk/roblos-api)
+
+[![All Repositories](https://img.shields.io/badge/All%20Repositories-21262D?style=for-the-badge&logo=git&logoColor=white)](https://github.com/EnHawk?tab=repositories)
 
 <br />
 
