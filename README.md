@@ -91,10 +91,10 @@
 
 <p align="center">
   <a href="https://github.com/EnHawk">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=EnHawk&show_icons=true&count_private=true&theme=react&bg_color=0D1117&title_color=FFFFFFF&icon_color=F8D866" alt="EnHawk's GitHub Stats" height="192px" width="49.5%" />
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=EnHawk&show_icons=true&count_private=true&theme=react&bg_color=0D1117&title_color=FFFFFFF&icon_color=F8D866" alt="EnHawk's GitHub Stats" height="200px" width="49.5%" />
   </a>
   <a href="https://github.com/EnHawk">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=EnHawk&langs_count=8&layout=compact&theme=react&bg_color=0D1117&title_color=FFFFFF&icon_color=F8D866" alt="EnHawk's Top Languages" height="192px" width="49.5%"/>
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=EnHawk&langs_count=8&layout=compact&theme=react&bg_color=0D1117&title_color=FFFFFF&icon_color=F8D866" alt="EnHawk's Top Languages" height="200px" width="49.5%"/>
   </a>
 </p>
 
