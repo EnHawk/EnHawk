@@ -67,7 +67,7 @@
 [![EnHawk Readme](https://github-readme-stats.vercel.app/api/pin/?username=EnHawk&repo=EnHawk&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E)](https://github.com/EnHawk/EnHawk#readme)
 [![Ravebot](https://github-readme-stats.vercel.app/api/pin/?username=EnHawk&repo=Ravebot&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&border_color=C9044C)](https://github.com/EnHawk/Ravebot)
 [![Hawk JS](https://github-readme-stats.vercel.app/api/pin/?username=EnHawk&repo=hawk.js&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&border_color=F0DB4F)](https://github.com/EnHawk/hawk.js)
-[![roblos-api](https://github-readme-stats.vercel.app/api/pin/?username=EnHawk&repo=roblos-api&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&border_color=2BB1FF)](https://github.com/EnHawk/roblos-api)
+[![Roblos API Service](https://github-readme-stats.vercel.app/api/pin/?username=EnHawk&repo=roblos-api-service&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&border_color=2BB1FF)](https://github.com/EnHawk/roblos-api-service)
 
 [![All Repositories](https://img.shields.io/badge/All%20Repositories-21262D?style=for-the-badge&logo=git&logoColor=white)](https://github.com/EnHawk?tab=repositories)
 
