@@ -43,7 +43,6 @@
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 [![Java](https://img.shields.io/badge/Java-EC2025?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com)
 [![Lua](https://img.shields.io/badge/Lua-0B0AEA?style=for-the-badge&logo=lua&)](https://www.lua.org)
-[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&&logoColor=white)](https://www.arduino.cc)
 
 <br />
 
