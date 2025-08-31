@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  <samp>「 I am a lazy and no purpose developer from <b>Indonesia 🇮🇩</b> 」</samp>
+  <samp>「 I am a lazy and a no purpose developer from <b>Indonesia 🇮🇩</b> 」</samp>
 </p>
 
 <!-- About Section -->
@@ -14,8 +14,8 @@
 
 <p>
   🛌🏽 &emsp; Being lazy most of the time <br />
-  💻 &emsp; Like to learn about coding and stuff <br />
-  📝 &emsp; Like to learn new things in my life <br />
+  💻 &emsp; Likes to learn about coding and stuff <br />
+  📝 &emsp; Likes to learn new things in my life <br />
   💬 &emsp; Ask me about anything <a href="https://github.com/EnHawk/EnHawk/issues">here</a> <br />
 </p>
 
